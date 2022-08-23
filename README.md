@@ -10,7 +10,7 @@ Lecciones de Física es español.
 
 Libros
 
-- [Machuca, J. (2017). Cinemática 1BGU](https://github.com/jamydx/lecciones-de-fisica/blob/main/Cinematica/Machuca_J_2017_Cinematica_1BGU.pdf)
+- [Machuca, J. (2017). Cinemática 1BGU](https://github.com/jamydx/lecciones-de-fisica/blob/main/Cinematica/Machuca_2018_Cinemática_1BGU.pdf)
 
 ## Mecánica de fluidos
 
