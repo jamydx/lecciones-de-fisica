@@ -1,0 +1,78 @@
+\documentclass[10pt]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{lmodern}
+\usepackage[spanish,es-nodecimaldot,es-tabla]{babel}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[font=scriptsize,labelfont=bf]{caption}
+\usepackage[font=scriptsize]{subcaption}
+\setbeamertemplate{caption}[numbered]
+\usepackage{booktabs}
+\usepackage{units}
+% \usepackage{mhchem}
+
+\usetheme{Berlin}
+\usefonttheme{professionalfonts}
+%\useoutertheme{infolines}
+%\usecolortheme{spruce}
+
+\usepackage{hyperref}
+\hypersetup{
+    % colorlinks = true,
+	pdfauthor=Jonathan Machuca,
+	pdftitle=Leyes de Newton
+}
+
+
+% ===== DATOS DESCRIPTIVOS ============================================
+\begin{document}
+\title{Introducción a la Dinámica}
+\subtitle{Dinámica, Estática, Trabajo, Potencia, Energía y su Didáctica\\
+{\scriptsize Pedagogía de las Ciencias Experimentales: Matemáticas y la Física}}
+
+\author[M.Sc. Jonathan Machuca]{
+Lic. Jonathan Alberto Machuca Yaguana. M.Sc\\
+{\scriptsize \texttt{jonathan.machuca@unl.edu.ec}}}
+
+\logo{\includegraphics[width=0.175\linewidth]{figures/logogris.png}}
+\institute[Universidad Nacional de Loja]{
+    {\normalsize Universidad Nacional de Loja}}
+
+%\subject{}
+\date{\today}
+\setbeamertemplate{navigation symbols}{}
+\setbeamercovered{transparent}
+% \setbeamercovered{invisible}
+
+
+% ===== GENERAR PORTADA ===============================================
+\begin{frame}[plain]
+    \maketitle
+\end{frame}
+
+
+% ===== TABLA DE CONTENIDOS ===========================================
+\begin{frame}{Tabla de Contenidos}
+    \tableofcontents
+\end{frame}
+
+
+% ===== CONTENIDOS ====================================================
+\input{apendices.tex}
+
+
+% ===== BIBLIOGRAFIA ==================================================
+\section{Bibliografía}
+
+\begin{frame}{Bibliografía}
+    \begin{thebibliography}{8}
+        \bibitem{Hewitt_2016} Hewitt, P. (2016). \textit{Física Conceptual}. Pearson Educación.
+        \bibitem{Serway-2018} Serway, R. y Vuille, C. (2018). \textit{Fundamentos de física} (10a ed.). Cengage Learning.
+        \bibitem{Tippens_2011} Tippens, P. (2011). \textit{Física conceptos y aplicaciones}. McGrawHill Educación.
+        \bibitem{Young_Freedman_Vol1_2013}  Young, H. y Freedman, R. (2013). \textit{Física universitaria con física moderna}. (13va ed., Vol. 1). Pearson Educación.
+    \end{thebibliography}
+\end{frame}
+
+\end{document}
