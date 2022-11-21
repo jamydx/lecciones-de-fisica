@@ -24,6 +24,10 @@ Actividades de Aprendizaje Práctico Experimental:
 
 - [Segunda ley de la termodinámica](https://github.com/jamydx/lecciones-de-fisica/blob/main/Termodinamica/APE3_U3_2a_ley_termodinamica.pdf)
 
+## Apendices de Física
+
+- [Sistema internacional, prefijos, datos astronómicos, entre otros](https://github.com/jamydx/lecciones-de-fisica/blob/main/apendices/main.pdf)
+
 ## Recursos de evaluación
 
 | No.  | Tipo del recurso                  |                                                              |                                                              |
@@ -33,6 +37,4 @@ Actividades de Aprendizaje Práctico Experimental:
 
 
 -----
-#### (C) 2022 - Jonathan Machuca ([ORCID](https://orcid.org/0000-0002-3632-9348))
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo se distribuye bajo la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+#### 2022 - Jonathan Machuca ([ORCID](https://orcid.org/0000-0002-3632-9348))
