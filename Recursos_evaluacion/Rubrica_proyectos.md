@@ -6,11 +6,11 @@ keywords: [Rúbrica, Evaluación, Proyectos, Física]
 tags: [Publishing]
 ---
 
-**Rúbrica de Evaluación de Proyectos de Física**
+## Rúbrica de Evaluación de Proyectos de Física
 
-**Elaboración:** MSc. Jonathan Alberto Machuca Yaguana
+Elaboración: MSc. Jonathan Alberto Machuca Yaguana
 
-**Grupo/Tema:** ..................................................................................................
+Grupo/Tema: ..................................................................................................
 
 | **No.** | **Dimensión**                                   | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                          | **(1)** | **(2)** | **(3)** |
 | :-----: | :---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------- | ------- |
@@ -20,6 +20,6 @@ tags: [Publishing]
 |    4    | Habilidades de comunicación y material de apoyo | El grupo demuestra una actitud de divulgación de la ciencia hacia el público, ha pensado la forma idónea de explicar el proyecto, tanto en forma como en contenido, (gráficas, explicaciones impresas, posters, entre otras). No hace falta un despliegue desmesurado de medios, sino de ponerlos al servicio de la claridad, la comprensión y el disfrute de la jornada por parte del público.                                      |         |         |         |
 |    5    | Originalidad y/o dificultad                     | Se valora la originalidad, novedad y dificultad del proyecto. No obstante, el peso recae en el aporte de los estudiantes y la comprensión de lo presentado. Los aportes incluyen elementos novedosos tanto en el diseño del proyecto como en la explicación o presentación, en la combinación de demostraciones y aplicaciones, o en el tipo de observaciones, análisis y relaciones entre aspectos aparentemente alejados entre sí. |         |         |         |
 
-**Bibliografía**
+## Bibliografía
 
 Experimenta, (2015). *Criterios generales de valoración de proyectos*. Universidad de Valencia.

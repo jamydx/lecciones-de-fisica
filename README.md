@@ -29,7 +29,7 @@ La información que se muestra a continuación corresponde al material docente q
 
 ### Prácticas conceptuales y experimentales
 
-- [Dilatación superficial de veredas](https://github.com/jamydx/lecciones-de-fisica/blob/main/mecanica_fluidos/APE_U2_Dilatacion_superficial-rev1.pdf)
+- [Dilatación superficial de veredas](https://github.com/jamydx/lecciones-de-fisica/blob/main/mecanica_fluidos/ape_dilatacion_superficial-rev1.pdf)
 
 -----
 
@@ -37,7 +37,7 @@ La información que se muestra a continuación corresponde al material docente q
 
 ### Prácticas conceptuales y experimentales
 
-- [Segunda ley de la termodinámica](https://github.com/jamydx/lecciones-de-fisica/blob/main/termodinamica/APE3_U3_2a_ley_termodinamica.pdf)
+- [Segunda ley de la termodinámica](https://github.com/jamydx/lecciones-de-fisica/blob/main/termodinamica/ape_2a_ley_termodinamica.pdf)
 
 -----
 
@@ -51,5 +51,5 @@ La información que se muestra a continuación corresponde al material docente q
 
 | No.  | Tipo del recurso                  |                                                              |                                                              |
 | ---- | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | Rúbrica para evaluar exposiciones | [Editable](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_exposicion.md) | [PDF](https://github.com/jamydx/lecciones-de-fisica/blob/main/Recursos_evaluacion/Rubrica_exposicion.pdf) |
-| 2    | Rúbrica para evaluar proyectos    | [Editable](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_proyectos.md) | [PDF](https://github.com/jamydx/lecciones-de-fisica/blob/main/Recursos_evaluacion/Rubrica_proyectos.pdf) |
+| 1    | Rúbrica para evaluar exposiciones | [Editable](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_exposicion.md) | [PDF](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_exposicion.pdf) |
+| 2    | Rúbrica para evaluar proyectos    | [Editable](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_proyectos.md) | [PDF](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_proyectos.pdf) |
