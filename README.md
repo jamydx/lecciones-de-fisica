@@ -29,7 +29,7 @@ La información que se muestra a continuación corresponde al material docente q
 
 ### Prácticas conceptuales y experimentales
 
-- [Dilatación superficial de veredas](https://github.com/jamydx/lecciones-de-fisica/blob/main/mecanica_fluidos/ape_dilatacion_superficial-rev1.pdf)
+- [Dilatación superficial de veredas](https://github.com/jamydx/lecciones-de-fisica/blob/main/mecanica_fluidos/ape_dilatacion_superficial.pdf)
 
 -----
 
