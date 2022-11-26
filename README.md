@@ -43,7 +43,7 @@ La información que se muestra a continuación corresponde al material docente q
 
 ## 4. Apendices de Física
 
-- [Sistema internacional, prefijos, alfabeto griego, datos astronómicos y figuras geométricas](https://github.com/jamydx/lecciones-de-fisica/blob/main/apendices/main.pdf)
+- [SI - Prefijos - Alfabeto griego - Datos astronómicos - Figuras geométricas](https://github.com/jamydx/lecciones-de-fisica/blob/main/apendices/main.pdf)
 
 -----
 
@@ -51,5 +51,5 @@ La información que se muestra a continuación corresponde al material docente q
 
 | No.  | Tipo del recurso                  |                                                              |                                                              |
 | ---- | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | Rúbrica para evaluar exposiciones | [Editable](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_exposicion.md) | [PDF](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_exposicion.pdf) |
-| 2    | Rúbrica para evaluar proyectos    | [Editable](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_proyectos.md) | [PDF](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/Rubrica_proyectos.pdf) |
+| 1    | Rúbrica para evaluar exposiciones | [Editable](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/rubrica_exposicion.md) | [PDF](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/rubrica_exposicion.pdf) |
+| 2    | Rúbrica para evaluar proyectos    | [Editable](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/rubrica_proyectos.md) | [PDF](https://github.com/jamydx/lecciones-de-fisica/blob/main/recursos_evaluacion/rubrica_proyectos.pdf) |
