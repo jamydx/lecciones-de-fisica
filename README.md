@@ -10,9 +10,9 @@
 
 - [ORCID](https://orcid.org/0000-0002-3632-9348)
 
-Lecciones de Física en español para los niveles de secundaria y primeros años de universidad.
+Lecciones de Física en español para secundaria y primeros años de universidad.
 
-La información que se muestra a continuación corresponde al material docente que he creado a lo largo de mi formación profesional en la carrera de Físico - Matemáticas y luego como docente univerisatario en la Universidad Nacional de Loja impartiendo asignaturas relacionadas con física educativa.
+El material docente que se muestra a continuación ha sido creado con base en mi formación profesional en la carrera de Físico - Matemáticas y como docente de Física en la Universidad Nacional de Loja.
 
 
 
@@ -22,7 +22,7 @@ La información que se muestra a continuación corresponde al material docente q
 
 ### Libros
 
-- [Machuca, J. (2017). Cinemática 1BGU](https://github.com/jamydx/lecciones-de-fisica/blob/main/cinematica/Machuca_2018_Cinematica_1bgu.pdf)
+- [Machuca, J. (2018). Cinemática 1BGU](https://github.com/jamydx/lecciones-de-fisica/blob/main/cinematica/Machuca_2018_Cinematica_1bgu.pdf)
 
 ### Prácticas conceptuales y experimentales
 
